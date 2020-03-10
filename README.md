@@ -12,7 +12,7 @@
 * [fliqlo](./fliqlo_133.zip)
 * [鼠标指针](./Bibata鼠标指针套装.rar)【待上传】
 * [IDM](./IDM)
-
+* [Pandoc](https://github.com/jgm/pandoc/releases)
 
 
 ## 快捷键
@@ -44,6 +44,7 @@
 * [Ditto使用手册](https://www.cnblogs.com/f-ck-need-u/p/9796031.html)
 * [git](https://blog.csdn.net/zamamiro/article/details/70172900)
 * [md -> word](https://www.jianshu.com/p/a9c9554ab1b0)
+   * 引用部分并未如md文档标出:cry:
 
 
 ## 问题解决
