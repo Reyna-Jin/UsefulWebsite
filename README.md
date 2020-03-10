@@ -10,7 +10,7 @@
 * [ZoomIt64](./ZoomIt64.exe)
 * [uTools](./uTools-0.8.9-beta.exe)
 * [fliqlo](./fliqlo_133.zip)
-* [鼠标指针](./Bibata鼠标指针套装.rar)
+* [鼠标指针](./Bibata鼠标指针套装.rar)【待上传】
 * [IDM](./IDM)
 
 
@@ -49,4 +49,4 @@
 ## 问题解决
 
 * [win10任务栏语言栏误删](https://jingyan.baidu.com/article/59a015e3ed1fd2b7948865bc.html)
-* [win10下Typora图片自动上传gitee](https://blog.csdn.net/the_power/article/details/104615522)【注：github等待更新中】
+* [win10下Typora图片自动上传gitee](https://blog.csdn.net/the_power/article/details/104615522)【注：[github](https://github.com/Thobian/typora-plugins-win-img)等待更新中】
