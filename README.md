@@ -49,8 +49,4 @@
 ## 问题解决
 
 * [win10任务栏语言栏误删](https://jingyan.baidu.com/article/59a015e3ed1fd2b7948865bc.html)
-
-
-
-
-
+* [win10下Typora图片自动上传gitee](https://blog.csdn.net/the_power/article/details/104615522)【注：github等待更新中】
