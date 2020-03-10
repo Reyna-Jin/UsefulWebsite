@@ -42,8 +42,7 @@
 ## 使用手册
 
 * [Ditto使用手册](https://www.cnblogs.com/f-ck-need-u/p/9796031.html)
-
-
+* [git](https://blog.csdn.net/zamamiro/article/details/70172900)
 
 
 
