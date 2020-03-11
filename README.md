@@ -10,7 +10,7 @@
 * [ZoomIt64](./ZoomIt64.exe)
 * [uTools](./uTools-0.8.9-beta.exe)
 * [fliqlo](./fliqlo_133.zip)
-* [鼠标指针](./Bibata鼠标指针套装.rar)【待上传】
+* [鼠标指针](./Bibata鼠标指针套装.rar)
 * [IDM](./IDM)
 * [Pandoc](https://github.com/jgm/pandoc/releases)
 
