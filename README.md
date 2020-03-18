@@ -54,3 +54,4 @@
 * [win10下Typora图片自动上传gitee](https://blog.csdn.net/the_power/article/details/104615522)【注：[github](https://github.com/Thobian/typora-plugins-win-img)等待更新中】
 * [failed to push some refs to git](https://stackoverflow.com/questions/9794413/failed-to-push-some-refs-to-githeroku-com)
 * [the same Q to up](https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to)
+* [使用cmd时cd命令失效](https://blog.csdn.net/u010603823/article/details/52182679)
