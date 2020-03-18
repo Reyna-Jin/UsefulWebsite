@@ -55,3 +55,4 @@
 * [failed to push some refs to git](https://stackoverflow.com/questions/9794413/failed-to-push-some-refs-to-githeroku-com)
 * [the same Q to up](https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to)
 * [使用cmd时cd命令失效](https://blog.csdn.net/u010603823/article/details/52182679)
+* [消除pycharm满屏weak warning（answer in comments）](https://blog.csdn.net/gedongya/article/details/52300135)
