@@ -13,6 +13,7 @@
 * [鼠标指针](./Bibata鼠标指针套装.rar)
 * [IDM](./IDM)
 * [Pandoc](https://github.com/jgm/pandoc/releases)
+* [Pycharm Community](https://www.jianshu.com/p/eb606812765d)
 
 
 ## 快捷键
