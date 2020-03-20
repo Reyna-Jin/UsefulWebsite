@@ -56,3 +56,5 @@
 * [the same Q to up](https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to)
 * [使用cmd时cd命令失效](https://blog.csdn.net/u010603823/article/details/52182679)
 * [消除pycharm满屏weak warning（answer in comments）](https://blog.csdn.net/gedongya/article/details/52300135)
+* [github访问过慢](https://www.jianshu.com/p/66facbd8926a)
+   [dns ip](http://tool.chinaz.com/dns?type=1&host=github.global.ssl.fastly.net&ip=)
