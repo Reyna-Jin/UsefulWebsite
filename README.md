@@ -46,7 +46,7 @@
 * [git](https://blog.csdn.net/zamamiro/article/details/70172900)
 * [md -> word](https://www.jianshu.com/p/a9c9554ab1b0)
    * 引用部分并未如md文档标出:cry:
-
+* [.gitignore](https://www.jianshu.com/p/a09a9b40ad20)
 
 ## 问题解决
 
@@ -60,3 +60,5 @@
       [站长ip](http://tool.chinaz.com/dns?type=1&host=github.global.ssl.fastly.net&ip=)
 * [利用gitee解决github下载项目过慢问题](https://blog.csdn.net/tefuirnever/article/details/99110367)
 * [git 错误error: failed to push some refs to](https://blog.csdn.net/winnershili/article/details/78888548)
+* [git修改commit注释1](https://blog.csdn.net/kai_zone/article/details/81189411)
+* [git修改commit注释2](https://www.jianshu.com/p/098d85a58bf1)
