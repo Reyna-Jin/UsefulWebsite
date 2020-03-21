@@ -59,3 +59,4 @@
 * [github访问过慢](https://www.jianshu.com/p/66facbd8926a)
       [站长ip](http://tool.chinaz.com/dns?type=1&host=github.global.ssl.fastly.net&ip=)
 * [利用gitee解决github下载项目过慢问题](https://blog.csdn.net/tefuirnever/article/details/99110367)
+* [git 错误error: failed to push some refs to](https://blog.csdn.net/winnershili/article/details/78888548)
