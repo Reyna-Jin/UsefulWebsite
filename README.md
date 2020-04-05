@@ -62,3 +62,4 @@
 * [git 错误error: failed to push some refs to](https://blog.csdn.net/winnershili/article/details/78888548)
 * [git修改commit注释1](https://blog.csdn.net/kai_zone/article/details/81189411)
 * [git修改commit注释2](https://www.jianshu.com/p/098d85a58bf1)
+* [创建 VirtualBoxClient COM 对象失败. 应用程序将被中断“的解决方案  in 评论区](https://blog.csdn.net/wangcheeng/article/details/50325517)
