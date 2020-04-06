@@ -14,7 +14,7 @@
 * [IDM](./IDM)
 * [Pandoc](https://github.com/jgm/pandoc/releases)
 * [Pycharm Community](https://www.jianshu.com/p/eb606812765d)
-
+* [xmind 8 pro激活](https://blog.csdn.net/Rain_xiaolong/article/details/87166653)
 
 ## 快捷键
 
