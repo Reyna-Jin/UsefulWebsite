@@ -44,6 +44,7 @@
 
 * [Ditto使用手册](https://www.cnblogs.com/f-ck-need-u/p/9796031.html)
 * [git](https://blog.csdn.net/zamamiro/article/details/70172900)
+* [git上传本地分支到github项目分支](https://blog.csdn.net/qq_27437967/article/details/71189571)
 * [md -> word](https://www.jianshu.com/p/a9c9554ab1b0)
    * 引用部分并未如md文档标出:cry:
 * [.gitignore](https://www.jianshu.com/p/a09a9b40ad20)
