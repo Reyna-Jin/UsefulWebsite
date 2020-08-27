@@ -51,6 +51,8 @@
 
 ## 入手新技术
 * [用python进行词云制作](https://www.jianshu.com/p/53648f0b93fc)
+* [github 词云项目](https://github.com/TommyZihao/zihaowordcloud)
+* [入手树莓派]():happy:
 
 ## 问题解决
 
