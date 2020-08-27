@@ -49,6 +49,9 @@
    * 引用部分并未如md文档标出:cry:
 * [.gitignore](https://www.jianshu.com/p/a09a9b40ad20)
 
+## 入手新技术
+* [用python进行词云制作](https://www.jianshu.com/p/53648f0b93fc)
+
 ## 问题解决
 
 * [win10任务栏语言栏误删](https://jingyan.baidu.com/article/59a015e3ed1fd2b7948865bc.html)
