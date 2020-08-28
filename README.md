@@ -70,3 +70,4 @@
 * [git修改commit注释2](https://www.jianshu.com/p/098d85a58bf1)
 * [创建 VirtualBoxClient COM 对象失败. 应用程序将被中断“的解决方案  in 评论区](https://blog.csdn.net/wangcheeng/article/details/50325517)
 * [ubuntu系统投屏非电视出声音解决方法](https://www.linuxidc.com/Linux/2018-01/150486.htm)
+* [设置pip安装源为国内清华大学镜像](https://blog.csdn.net/steveliu13/article/details/79294774?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
