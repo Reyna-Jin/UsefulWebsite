@@ -49,6 +49,7 @@
    * 引用部分并未如md文档标出:cry:
 * [.gitignore](https://www.jianshu.com/p/a09a9b40ad20)
 * [Xshell登录阿里云服务器ECS](https://blog.csdn.net/u013894429/article/details/78811823)
+* [使用Typora画图的小技巧](https://mp.weixin.qq.com/s/XohN4h6pyUzXo3mH2dUhYQ)
 
 ## 入手新技术
 * [用python进行词云制作](https://www.jianshu.com/p/53648f0b93fc)
