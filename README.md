@@ -55,6 +55,7 @@
 * [用python进行词云制作](https://www.jianshu.com/p/53648f0b93fc)
 * [github 词云项目](https://github.com/TommyZihao/zihaowordcloud)
 * [入手树莓派]():happy:
+* [hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)
 
 ## 问题解决
 
