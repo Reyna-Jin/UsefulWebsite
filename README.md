@@ -56,6 +56,7 @@
 * [github 词云项目](https://github.com/TommyZihao/zihaowordcloud)
 * [入手树莓派]():happy:
 * [hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)
+* [用gitee搭建图床](https://blog.csdn.net/u010654995/article/details/88383995)
 
 ## 问题解决
 
