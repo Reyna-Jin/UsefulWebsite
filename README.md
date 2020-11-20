@@ -57,6 +57,8 @@
 * [入手树莓派]():happy:
 * [hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)
 * [用gitee搭建图床](https://blog.csdn.net/u010654995/article/details/88383995)
+* [解决hexo本地与部署不一致问题](https://blog.csdn.net/GAI159/article/details/105128186)
+
 
 ## 问题解决
 
