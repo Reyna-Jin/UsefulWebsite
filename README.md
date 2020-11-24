@@ -58,6 +58,7 @@
 * [hexo从零开始到搭建完整](https://www.cnblogs.com/visugar/p/6821777.html)
 * [用gitee搭建图床](https://blog.csdn.net/u010654995/article/details/88383995)
 * [hexo博客评论新神器——Valine](https://www.jianshu.com/p/6bc6a8977c36)
+* [免费CDN：jsDelivr+Github 使用方法](https://blog.csdn.net/qq_36759224/article/details/86936453)
 
 
 ## 问题解决
