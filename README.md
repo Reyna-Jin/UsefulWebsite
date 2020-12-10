@@ -79,3 +79,4 @@
 * [ubuntu系统投屏非电视出声音解决方法](https://www.linuxidc.com/Linux/2018-01/150486.htm)
 * [设置pip安装源为国内清华大学镜像](https://blog.csdn.net/steveliu13/article/details/79294774?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 * [解决hexo本地与部署不一致问题](https://blog.csdn.net/GAI159/article/details/105128186)
+* [关于OBS显示器捕获黑屏问题的解决办法之一](https://tieba.baidu.com/p/6364329041)
