@@ -82,3 +82,4 @@
 * [解决hexo本地与部署不一致问题](https://blog.csdn.net/GAI159/article/details/105128186)
 * [关于OBS显示器捕获黑屏问题的解决办法之一](https://tieba.baidu.com/p/6364329041)
 * [MarkDown语法总结](https://www.cnblogs.com/linbudu/p/11367763.html)
+* [解决PR运行总是崩溃的问题？](https://jingyan.baidu.com/article/636f38bbec405896b84610b8.html)
