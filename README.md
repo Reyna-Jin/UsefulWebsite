@@ -83,3 +83,5 @@
 * [关于OBS显示器捕获黑屏问题的解决办法之一](https://tieba.baidu.com/p/6364329041)
 * [MarkDown语法总结](https://www.cnblogs.com/linbudu/p/11367763.html)
 * [解决PR运行总是崩溃的问题？](https://jingyan.baidu.com/article/636f38bbec405896b84610b8.html)
+* [Mac录屏教程插件soundflower如何设置（有屏内声音+无屏外声音）](https://zhuanlan.zhihu.com/p/104617274)
+* [iphone录屏录入别人声音]()
