@@ -84,4 +84,5 @@
 * [MarkDown语法总结](https://www.cnblogs.com/linbudu/p/11367763.html)
 * [解决PR运行总是崩溃的问题？](https://jingyan.baidu.com/article/636f38bbec405896b84610b8.html)
 * [Mac录屏教程插件soundflower如何设置（有屏内声音+无屏外声音）](https://zhuanlan.zhihu.com/p/104617274)
+* [QuickTime + Soundflower 完美解决录屏声音](https://www.jianshu.com/p/db035dad616a)
 * [iphone录屏录入别人声音]()
