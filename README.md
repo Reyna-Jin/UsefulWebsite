@@ -86,3 +86,4 @@
 * [Mac录屏教程插件soundflower如何设置（有屏内声音+无屏外声音）](https://zhuanlan.zhihu.com/p/104617274)
 * [QuickTime + Soundflower 完美解决录屏声音](https://www.jianshu.com/p/db035dad616a)
 * [iphone录屏录入别人声音]()
+* [snapaste谷歌浏览器快捷键F1不能截屏的问题解决](https://blog.csdn.net/yijiaobani/article/details/99626906)
