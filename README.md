@@ -87,3 +87,5 @@
 * [QuickTime + Soundflower 完美解决录屏声音](https://www.jianshu.com/p/db035dad616a)
 * [iphone录屏录入别人声音]()
 * [snapaste谷歌浏览器快捷键F1不能截屏的问题解决](https://blog.csdn.net/yijiaobani/article/details/99626906)
+* [IDM_6.3x破解版](https://www.jianshu.com/p/877a976c98be)
+* [IDM最新版本下载网址：http://idman.ys168.com/](https://blog.csdn.net/weixin_44014836/article/details/120848953)
