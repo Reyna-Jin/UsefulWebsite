@@ -93,3 +93,4 @@
 * [butterfly主题页面底部 footer 跳动的心](https://blog.51cto.com/100Chocolate/2898583)
 * [git 提交报错 error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: PROTOCOL_ERROR (err 1)](https://blog.csdn.net/wjk_along/article/details/104423443)
 * [crx文件拖入chrome“扩展程序”开发者模式网页中](https://blog.csdn.net/all_might1/article/details/107220531)
+* [PS将图片变成纯白色](https://jingyan.baidu.com/article/4853e1e5004e131909f726c5.html)
