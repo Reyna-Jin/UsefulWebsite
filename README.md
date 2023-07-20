@@ -94,3 +94,4 @@
 * [git 提交报错 error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: PROTOCOL_ERROR (err 1)](https://blog.csdn.net/wjk_along/article/details/104423443)
 * [crx文件拖入chrome“扩展程序”开发者模式网页中](https://blog.csdn.net/all_might1/article/details/107220531)
 * [PS将图片变成纯白色](https://jingyan.baidu.com/article/4853e1e5004e131909f726c5.html)
+* [notion输入中文时输入法焦点在左上角，通过先打开“开始”，后回到notion界面解决](https://github.com/Reamd7/notion-zh_CN/issues/17)
