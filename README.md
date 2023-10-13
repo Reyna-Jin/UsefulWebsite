@@ -95,3 +95,4 @@
 * [crx文件拖入chrome“扩展程序”开发者模式网页中](https://blog.csdn.net/all_might1/article/details/107220531)
 * [PS将图片变成纯白色](https://jingyan.baidu.com/article/4853e1e5004e131909f726c5.html)
 * [notion输入中文时输入法焦点在左上角，通过先打开“开始”，后回到notion界面解决](https://github.com/Reamd7/notion-zh_CN/issues/17)
+* [vscode中python环境中已安装某模块，如'xlwt'，但报错未找到，则'pip3.7 install xlwt'即可解决](https://blog.csdn.net/qq_33432841/article/details/101108998)
