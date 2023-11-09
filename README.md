@@ -97,3 +97,4 @@
 * [notion输入中文时输入法焦点在左上角，通过先打开“开始”，后回到notion界面解决](https://github.com/Reamd7/notion-zh_CN/issues/17)
 * [vscode中python环境中已安装某模块，如'xlwt'，但报错未找到，则'pip3.7 install xlwt'即可解决](https://blog.csdn.net/qq_33432841/article/details/101108998)
 * [Github 突然无法推送代码的解决方案, ssh rsa错误](https://blog.csdn.net/u011520181/article/details/129790944)
+* [与上面链接联合使用，解决deploy仓库发生错误的问题](https://blog.csdn.net/qq_43705131/article/details/107965888)
