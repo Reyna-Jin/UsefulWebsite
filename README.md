@@ -98,3 +98,5 @@
 * [vscode中python环境中已安装某模块，如'xlwt'，但报错未找到，则'pip3.7 install xlwt'即可解决](https://blog.csdn.net/qq_33432841/article/details/101108998)
 * [Github 突然无法推送代码的解决方案, ssh rsa错误](https://blog.csdn.net/u011520181/article/details/129790944)
 * [与上面链接联合使用，解决deploy仓库发生错误的问题](https://blog.csdn.net/qq_43705131/article/details/107965888)
+* [解决git push时报错remote: Support for password authentication was removed on August 13, 2021.](https://blog.csdn.net/yjw123456/article/details/119696726)
+* [使用Git将本地文件夹push到github](https://blog.csdn.net/qq_41574522/article/details/134680674)
